@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pembelian HP Oppo</string>
+    <string name="belom_di_isi">Oppo A3s</string>
+    <string name="deskripsi">OPPO A3s berlayar notch HD+ 6.2" dengan dibenami Qualcomm Snapdragon 450, dual kamera belakang 13MP+2MP, kamera depan 8MP, baterai 4230 mAh.</string>
+    <string name="cpu">	Qualcomm Snapdragon 450 Octa core</string>
+    <string name="layar">6.2 inches HD+ 1520 x 720 pixel, ratio 19:9</string>
+    <string name="ram">2GB Ram dan 3GB Ram</string>
+    <string name="internal">16GB dan 32GB</string>
+    <string name="os">Android Oreo</string>
+    <string name="batre">4230 mAh</string>
+    <string name="kamera">13MP + 2MP dan 8MP</string>
+    <string name="resolusi">HD</string>
+    <string name="jaringan">2G/3G/4G</string>
+    <string name="fitur">Wi-Fi , Hotspot/Tethering , GPS , Bluetooth , Flash , Face Unlock , Dual Cameras</string>
+    <string name="kelebihan">microSD up to 256GB, dual SIM, Dual Camera</string>
+</resources>
